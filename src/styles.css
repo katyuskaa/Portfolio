@@ -26,6 +26,7 @@ section {
 }
 
 section.min-height {
+  color:#ffffff;
   min-height: 100vh;
 }
 
@@ -90,11 +91,11 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #ffffff;
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 

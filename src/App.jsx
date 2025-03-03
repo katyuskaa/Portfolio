@@ -29,9 +29,8 @@ const siteProps = {
   email: "katydis18@gmail.com",
   gitHub: "katyuskaa",
   instagram: "iamkatyuska",
-  linkedIn: "satyanadella",
+  linkedIn: "katydis18",
   medium: "",
-  twitter: "microsoft",
   youTube: "Code",
 };
 
